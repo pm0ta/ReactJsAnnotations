@@ -1,11 +1,14 @@
-# Avançando em __PROPS__
+# Avançando em _PROPS_
 
 > Podemos definir tipos para as props (ou seja, strings, number e por ai vai), realizando uma espécie de validação;
-> Definimos em um objeto chamdo __propTypes__ no próprio componente;
-> E ainda há possibilidades de __definir um valor padrão__;
-> Neste caso utilizamos o objeto __defaultProps__;
+> Definimos em um objeto chamdo _propTypes_ no próprio componente;
+> E ainda há possibilidades de _definir um valor padrão_;
+> Neste caso utilizamos o objeto _defaultProps_;
 
-# Oque é __defaultProps__ ?
+# Oque é _propTypes_ ?
+> PropTypes exporta uma variedade de validadores que podem ser usados para certificar que os dados que você recebe são válidos. Neste exemplo, utilizamos PropTypes.  string . Quando um valor inválido for fornecido a uma prop, um alerta será exibido no console JavaScript.
+
+# Oque é _defaultProp__ ?
 
 > Com a uma certa semelhança do propTypes aqui definimos um comportamento default para quando uma propriedade não for informada receber algum valor em especial.
 
