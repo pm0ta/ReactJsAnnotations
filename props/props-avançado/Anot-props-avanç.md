@@ -10,7 +10,7 @@
 > Com a uma certa semelhança do propTypes aqui definimos um comportamento default para quando uma propriedade não for informada receber algum valor em especial.
 
 
-```
+```js
 import PropTypes from 'prop-types';
 
 export default function Item({ marca, lancamento }) {
