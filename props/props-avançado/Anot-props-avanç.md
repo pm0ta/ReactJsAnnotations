@@ -8,7 +8,7 @@
 # Oque é _propTypes_ ?
 > PropTypes exporta uma variedade de validadores que podem ser usados para certificar que os dados que você recebe são válidos. Neste exemplo, utilizamos PropTypes.  string . Quando um valor inválido for fornecido a uma prop, um alerta será exibido no console JavaScript.
 
-# Oque é _defaultProp__ ?
+# Oque é _defaultProp_ ?
 
 > Com a uma certa semelhança do propTypes aqui definimos um comportamento default para quando uma propriedade não for informada receber algum valor em especial.
 
