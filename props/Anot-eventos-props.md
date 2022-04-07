@@ -1,3 +1,5 @@
+## Index.js
+
 ```js
 import Button from './evento/Button';
 
@@ -13,6 +15,8 @@ export default function Evento() {
     />;
 }
 ```
+
+## Evento.js
 
 ```js
 export default function Evento({ BTNname, event }) {
