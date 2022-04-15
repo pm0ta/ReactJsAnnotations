@@ -1,4 +1,4 @@
-``js
+```js
 import { useState } from "react";
 
 export default function Condicional() {
@@ -25,4 +25,4 @@ export default function Condicional() {
 }
 
 // https://www.youtube.com/watch?v=N0yd73QZ2wk - Vídeo explicativo sobre renderização condicional.  
-``
+```
