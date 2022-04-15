@@ -1,4 +1,4 @@
-```js
+```ruby
 import { useState } from "react";
 
 export default function Condicional() {
