@@ -7,7 +7,7 @@ Então precisamos elevar o nível do mesmo a um componente pai;
 Então centralizamos o state no pai, e definimos quem usa e quem define (useState);
 
 
-Index.js ( Pai )
+# Index.js ( Pai )
 ```js
 import React, { useState } from 'react';
 import SeuNome from './components/SeuNome';
@@ -26,6 +26,8 @@ export default function App() {
 }
 ```
 
+
+
 # SeuNome.js ( Filho )
 ```js
 export default function SeuNome({ setName }) {
@@ -38,6 +40,8 @@ export default function SeuNome({ setName }) {
   );
 }
 ```
+
+
 
 # Saudacao.js ( Filho )
 ```js
