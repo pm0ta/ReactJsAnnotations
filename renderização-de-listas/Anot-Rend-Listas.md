@@ -13,11 +13,11 @@ import OutraLista from "./OutraLista";
 
 export default function RendLista() {
 
-  const names = ['Pedro', 'Raphaela', 'Gabriel', 'Davi'];
+  const names = ['Pedro', 'Raphaela', 'Gabriel', 'Davi'];   //Criamos um array com vários nomes
 
   return (
     <>
-    <OutraLista names={names} />
+    <OutraLista names={names} />  {/* importamos 'OutraLista.js' e passamos o array names através das props */}
     </>
   );
 }
