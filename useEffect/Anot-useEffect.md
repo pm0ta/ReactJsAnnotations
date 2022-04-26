@@ -1,6 +1,8 @@
 useEffect é um hook que vai ser chamado assim que a página for recarregada;
-useEffect() recebe como primeiro parâmetro uma função que será executada assim que o componente renderizar. 
-A beleza deste Hook é que podemos definir facilmente quando queremos que esta função seja executada novamente. Basta passar como segundo parâmetro ao useEffect() um Array com as variáveis que controlarão esse Hook.
+
+useEffect() recebe como primeiro parâmetro uma função que será executada assim que o componente renderizar;
+
+A beleza deste Hook é que podemos definir facilmente quando queremos que esta função seja executada novamente. Basta passar como segundo parâmetro ao useEffect() um Array com as variáveis que controlarão esse Hook;
 
 ```js
 import { useState, useEffect } from 'react';
