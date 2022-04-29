@@ -58,4 +58,5 @@ export default LocalStorage;
 ```
 
 Fontes: https://tableless.com.br/guia-f%C3%A1cil-sobre-usar-localstorage-com-javascript/ - https://warcontent.com/localstorage-javascript/
+
 VídeoAula: https://www.youtube.com/watch?v=De5np8phQxo -  https://www.youtube.com/watch?v=oaDdTH2JQrA&t=300s
